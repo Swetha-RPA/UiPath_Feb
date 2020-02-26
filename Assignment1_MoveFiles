@@ -1,0 +1,9 @@
+Task 
+The aim is to automate the process of moving files from the source folder to the destination folder.
+
+Steps To Automate
+Follow the below steps to achieve the aim:
+•	Assign the source directory to a variable.
+•	Count the number of files to be moved by using a Counter variable.
+•	Mention the Destination path in the Move file activity.
+•	For each item in the source path, use the counter variable to move the files to the destination path.
